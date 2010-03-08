@@ -14,7 +14,7 @@ Add lein-test-is to your project's dev-dependencies.  For example:
 
 To run your project's tests, simply type:
 
-    lein test
+    lein test-is
 
 ## License
 
