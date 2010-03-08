@@ -15,4 +15,4 @@ If none are given, runs them all."
     (eval-in-project
      project
      (form-for-testing-namespaces
-      'clojure.contrib.test-is namespaces))))
+      namespaces 'clojure.contrib.test-is))))
